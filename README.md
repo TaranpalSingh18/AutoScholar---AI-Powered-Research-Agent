@@ -1,6 +1,10 @@
-# Research Agent 🚀
+# AutoScholar - AI Research Agent 🚀
 
 An AI-powered research paper generation system that automates the end-to-end academic research workflow. This Python implementation replicates the functionality of the n8n workflow defined in `research_agent.json`.
+
+## Workflow Diagram
+
+![Workflow](research_agent/assets/workflow.png)
 
 ## Features
 
