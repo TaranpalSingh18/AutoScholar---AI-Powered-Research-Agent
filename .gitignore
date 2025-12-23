@@ -49,6 +49,7 @@ Thumbs.db
 *.tex
 *.svg
 *.png
+!workflow.png
 docs/*.tex
 
 # Testing
