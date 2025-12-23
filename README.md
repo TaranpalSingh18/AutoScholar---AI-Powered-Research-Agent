@@ -4,7 +4,7 @@ An AI-powered research paper generation system that automates the end-to-end aca
 
 ## Workflow Diagram
 
-![Workflow](/assets/workflow.png)
+![Workflow](workflow.png)
 
 ## Features
 
